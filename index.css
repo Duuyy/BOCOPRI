@@ -1,0 +1,113 @@
+.tx-al{
+    text-align: center;
+}
+
+
+#title{
+        padding-right: 0%;
+        background-color: #e1effb;
+}
+
+#features{
+
+}
+
+#p{
+    font-family: 'Playfair Display', serif;
+    font-size: 25px;
+    font-weight: 300;
+    padding-bottom: 2rem;
+}
+#cta{
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+    place-items: center;
+    background-color: #e1effb;
+
+    
+}
+
+#pricing{
+    background-color:#F8C2B4 ;
+    
+}
+#h2{
+    font-weight: 900;
+    padding-top: 5px;
+
+}
+
+#h3{
+padding-bottom: 5px;
+font-weight: bold;
+display: block;
+color: #EE6C4D;
+text-align: center;
+}
+#footer{ 
+    background-color: #e1effb;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+
+.fea{
+    padding-top: 3rem;
+}
+.prici{
+    padding-top: 3rem;
+    padding-bottom: 1.5rem;
+}
+
+.pd{
+    padding-bottom: 3rem;
+}
+
+.pda{
+    padding-bottom: 3rem;
+}
+
+h1{
+    font-family: 'Montserrat, sans-serif' ;
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: 900;
+    color:black;
+    text-align: center;
+    padding-bottom: 3rem;
+}
+
+
+h3{
+    padding-bottom: 3rem;
+}
+
+.material-symbols-outlined {
+  font-size: 150px;
+  color: #EE6C4D;
+}
+
+.sz{
+    font-size: 25px;
+}
+
+.pf{
+padding-top: 1rem;
+}
+
+.container-fluid{
+    padding-top: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    text-align: center;
+}
+
+.nav-brand {
+    padding-top: 1rem;
+    padding-bottom: 0rem;
+    margin-right: 2rem;
+    font-size: medium;
+    color: grey
+}
